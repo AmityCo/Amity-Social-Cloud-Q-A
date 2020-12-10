@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Remark**
-Please be noted that we will not accept issue or defects report in this channel. You may not get an update on your issue in this community.  
+Please be noted that we will not accept issue or defects report in this channel. 
 To report issues, please send email to : support.upstra@amity.co , using the below template.
 
 **Describe the bug**
