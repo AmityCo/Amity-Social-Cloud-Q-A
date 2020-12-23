@@ -3,7 +3,7 @@
 ## Welcome to Upstra Community!
 ### This is a place where you can find answers to your questions and share knowledge about Upstra.
 
-#### Our support team is ready to answer your questions during weekdays. 
+#### Our support team is ready to answer your questions during working days. 
 How to post your question here…
 
 Step 1 : Click ‘Issue’ tab
