@@ -1,6 +1,6 @@
-# Upstra Q&A 💬
+# Amity Social Cloud Q&A 💬
 
-## Welcome to Upstra Community!
+## Welcome to Amity Social Cloud Community!
 ### This is a place where you can find answers to your questions and share knowledge about Upstra.
 
 #### Our support team is ready to answer your questions during working days. 
