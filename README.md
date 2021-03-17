@@ -1,6 +1,6 @@
-# Amity Social Cloud Q&A 💬
+# Amity Social Cloud Community 💬
 
-## Welcome to Amity Social Cloud Discussion Forum!
+## Welcome to Amity Social Cloud Community!
 ### This is a place where you can find answers to your questions and share knowledge about Amity Social Cloud.
 
 #### Our support team is ready to answer your questions during working days. 
